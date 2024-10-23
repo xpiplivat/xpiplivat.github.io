@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://xpiplivat.github.io/xpiplivat.xpiplivat
+Sitemap: https://xpiplivat.github.io/app/xpiplivat.xpiplivat
+Sitemap: https://xpiplivat.github.io/assets/xpiplivat.xpiplivat
+Sitemap: https://xpiplivat.github.io/css/xpiplivat.xpiplivat
+Sitemap: https://xpiplivat.github.io/includes/xpiplivat.xpiplivat
+Sitemap: https://xpiplivat.github.io/item/xpiplivat.xpiplivat
+Sitemap: https://xpiplivat.github.io/src/xpiplivat.xpiplivat
